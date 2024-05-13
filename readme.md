@@ -6,7 +6,13 @@
 - Using this animation, the character should walk from left to right of the screen, and when it reaches the edge it should turn around.
 - Trying to use the most optimal method possible.
 
-### Requirements:
-- Python 3.x.
-- Pygame library.
+## Bitmap Font
+### Objective:
+- To create a program that displays a text using a bitmap font.
+- You can get the font from https://github.com/ianhan/BitmapFonts.
+- The program should scroll the text using the most optimal method possible.
+
+## Requirements
+- Python 3.x
+- Pygame
 
