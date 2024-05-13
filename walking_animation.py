@@ -7,11 +7,12 @@ from utils.constants import *
 pygame.init()
 
 # Set up the display
-
 SCREEN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Walking Animation")
+
 # Set up the clock
 clock = pygame.time.Clock()
+
 # Set up the character
 character = Character((WIDTH // 2, HEIGHT - 100))
 
